@@ -1,0 +1,37 @@
+# SPDX-FileCopyrightText: (C) 2020 Aleix Pol Gonzalzez <aleixpol@kde.org>
+#
+# SPDX-License-Identifier: GPL-2.0-only OR GPL-3.0-only OR LicenseRef-KDE-Accepted-GPL
+
+[Desktop Entry]
+Name=Software Updates
+Name[az]=Proqram Təminatı Yenilənmələri
+Name[ca]=Actualitzacions de programari
+Name[cs]=Aktualizace software
+Name[en_GB]=Software Updates
+Name[es]=Actualizaciones de software
+Name[eu]=Software eguneratzeak
+Name[fr]=Mises à jour des logiciels 
+Name[hu]=Szoftverfrissítések
+Name[ia]=Actualisationes de Software
+Name[it]=Aggiornamenti software
+Name[nl]=Elementen voor software bijwerken
+Name[nn]=Program­oppdateringar
+Name[pa]=ਸਾਫਟਵੇਅਰ ਅੱਪਡੇਟ ਹਨ
+Name[pl]=Uaktualnienia oprogramowania
+Name[pt]=Actualizações de Aplicações
+Name[ru]=Обновления программ
+Name[sk]=Aktualizácie softvéru
+Name[sl]=Posodobitve programja
+Name[sv]=Uppdateringar av programvara
+Name[uk]=Оновлення програм
+Name[x-test]=xxSoftware Updatesxx
+Name[zh_CN]=软件更新
+
+Icon=system-software-update
+Type=Service
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=kcm_updates
+X-KDE-ServiceTypes=Plasma/Generic
+X-Plasma-API=declarativeappletscript
+
+X-Plasma-MainScript=ui/main.qml
